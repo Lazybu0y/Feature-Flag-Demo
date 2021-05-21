@@ -16,7 +16,7 @@ class App extends Component{
 }
 
 const LDConfig ={
-  clientSideID: "609ec142cfed410ce89ba2f7",
+  clientSideID: "",
   user:{
     "key":"Santosh",
     custom:{
